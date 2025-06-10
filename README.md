@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Hitesh Gupta
 
 🚀 **AI Engineer | Full-Stack Developer | Prompt Engineering Specialist**  
-🔗 [LinkedIn](https://www.linkedin.com/in/hiteshgupta-119710101) • 📫 hiteshgupta3012@gmail.com • 📞 +91 85590 93899  
+🔗 [LinkedIn](https://www.linkedin.com/in/hiteshgupta3012) •[Website](https://hiteshgupta.space) • 📫 hiteshgupta3012@gmail.com • 📞 +91 85590 93899  
 📍 Based in Chandigarh, India
 
 ---
